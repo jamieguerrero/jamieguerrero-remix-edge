@@ -1,0 +1,6 @@
+/.cache
+/.github
+/.netlify
+/.vscode
+/node_modules
+/public
